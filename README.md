@@ -23,13 +23,11 @@ This BOT only works in the Chrome Browser
 
 
 ## 🔗 Link
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/don-gladson/)
+[<img align="left" alt="dongladson | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" target="_blank" />][youtube]
+[<img align="left" alt="dongladson | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" target="_blank" />][linkedin]
 
-
-
-
-
-
+[youtube]: https://www.youtube.com/@on-tech23
+[linkedin]: https://www.linkedin.com/in/don-gladson/
 
 
    
