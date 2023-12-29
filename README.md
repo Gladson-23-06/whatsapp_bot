@@ -23,7 +23,7 @@ This BOT only works in the Chrome Browser
 
 
 ## 🔗 Link
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/don-gladson)
+[![linkedin](www.linkedin.com/in/don-gladson)
 
 
 
