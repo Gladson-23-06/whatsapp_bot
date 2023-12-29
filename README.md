@@ -12,6 +12,10 @@ To install selenium in python use command
 
     pip install selenium 
 
+To install Chrome Web Driver    
+
+    https://chromedriver.chromium.org/downloads
+    
 Note:
 
 This BOT only works in the Chrome Browser  
