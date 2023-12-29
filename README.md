@@ -23,7 +23,7 @@ This BOT only works in the Chrome Browser
 
 
 ## 🔗 Link
-[![linkedin](www.linkedin.com/in/don-gladson)
+[linkedin](www.linkedin.com/in/don-gladson)
 
 
 
