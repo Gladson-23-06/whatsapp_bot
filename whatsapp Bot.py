@@ -29,7 +29,7 @@ while True:
     pass
 
 # This is the time delay fun for every driver action
-# driver.implicitly_wait(2)
+driver.implicitly_wait(2)
 
 def chat_find_fun():
         
@@ -71,6 +71,7 @@ def message_fun():
 def loop_fun(no_of_times):
      for x in range(1,no_of_times+1):
           message_fun()
+          sleep(0.5)
 
 chat_find_fun()
 print("----------closing the browser--------")
