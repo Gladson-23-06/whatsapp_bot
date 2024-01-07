@@ -20,6 +20,9 @@ Note:
 
 This BOT only works in the Chrome Browser  
 
+## YouTube Video
+
+- [Video link](https://youtu.be/yZP_KKXhy8k)
 
 ## Authors
 
